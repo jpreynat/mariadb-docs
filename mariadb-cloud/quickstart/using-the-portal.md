@@ -1,6 +1,6 @@
 # Using the Portal
 
-The MariaDB Cloud database deployment time varies: a Serverless instance is ready in seconds, while a Provisioned database may take a few minutes. You can deploy on AWS, GCP, or Azure across nearly 50 global regions.
+The MariaDB Cloud database deployment time varies: a Serverless instance is ready in seconds, while a Provisioned database may take a few minutes. You can deploy on AWS, GCP, or Azure across nearly 50 global regions
 
 You can provision a database in three ways:
 
@@ -29,8 +29,6 @@ Go to [app.skysql.com](https://app.skysql.com) to sign up. You can sign up using
       * Or choose a region of your preference.
     * Service Naming: Name the service "`quickstart-1`" or retain the suggested service name.
     * Click the `Launch Service` button.
-
-
 
     For additional information on available selections, see "[Service Launch](../cloud-usage/launch-page.md)".
 
