@@ -18,7 +18,7 @@ layout:
 
 # Quickstart Guides
 
-This space offers step-by-step instructions for quickly deploying, configuring, and managing MariaDB Cloud databases using various methods and tools. Whether you prefer to use web-based portal, REST APIs, infrastructure-as-code tools like Terraform, or Python scripts, these methods will help you to walk through the complete process, from initial setup and connecting to the first database, to deployment, monitoring, and scaling of cloud database instances
+This space offers step-by-step instructions for quickly deploying, configuring, and managing MariaDB Cloud databases using various methods and tools. Whether you prefer to use web-based portal, REST APIs, infrastructure-as-code tools like Terraform, or Python scripts, these methods will help you to walk through the complete process, from initial setup and connecting to the first database, to deployment, monitoring, and scaling of cloud database instances.
 
 ## Using the Portal
 
