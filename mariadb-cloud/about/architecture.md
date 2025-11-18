@@ -4,7 +4,7 @@ icon: clouds
 
 # MariaDB Cloud Serverless Architecture
 
-This document provides a comprehensive technical overview of MariaDB Cloud Serverless architecture, explaining how it achieves true serverless capabilities while maintaining full compatibility with MySQL and MariaDB.
+This document provides a comprehensive technical overview of MariaDB Cloud Serverless architecture, explaining how it achieves true serverless capabilities while maintaining full compatibility with MySQL and MariaDB
 
 ## Design Philosophy
 
