@@ -24,7 +24,7 @@ layout:
 
 ## MariaDB Cloud Serverless
 
-MariaDB Cloud Serverless is the first true serverless database solution for the MySQL and MariaDB ecosystem, uniquely built to meet the dynamic demands of modern applications. MariaDB Cloud Serverless combines instant scalability with cost efficiency, scaling down to zero when idle—saving you from paying for unused capacity. When workloads resume, Serverless service is ready in milliseconds, ensuring a seamless, uninterrupted experience for applications and users
+MariaDB Cloud Serverless is the first true serverless database solution for the MySQL and MariaDB ecosystem, uniquely built to meet the dynamic demands of modern applications. MariaDB Cloud Serverless combines instant scalability with cost efficiency, scaling down to zero when idle—saving you from paying for unused capacity. When workloads resume, Serverless service is ready in milliseconds, ensuring a seamless, uninterrupted experience for applications and users.
 
 ### True Serverless Experience
 

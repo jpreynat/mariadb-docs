@@ -11,7 +11,7 @@ icon: clouds
 * **Serverless Scaling:** Provides near instantaneous scaling from zero to defined upper limit and back down to zero, adapting dynamically to workloads without manual intervention.
 * **Intelligent Load Balancing:** Maintains consistency via smart proxy-based load balancing and read-write splitting.
 * **Flexible Consistency:** Offers both causal and strong global consistency models.
-* **Custom Query Routing:** Allows fine-tuned performance optimization through customizable routing rules.
+* **Custom Query Routing:** Allows fine-tuned performance optimization through customizable routing rules
 
 ### Integrated AI Agents
 
